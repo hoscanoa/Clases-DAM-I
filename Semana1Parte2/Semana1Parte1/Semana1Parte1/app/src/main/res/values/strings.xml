@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Semana1Parte1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="strTitulo">Cambio de Soles a Dólares</string>
+    <string name="strSoles">Ingrese monto en soles</string>
+    <string name="strTasa">Ingrese tasa de cambio</string>
+    <string name="strCalcular">Calcular</string>
+
+</resources>

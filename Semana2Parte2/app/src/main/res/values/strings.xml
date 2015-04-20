@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Semana2Parte2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="strFlor">Seleccione Flor</string>
+    <string name="strValor">Seleccione Valoración</string>
+    <string-array name="flores">
+        <item>Crisantemo</item>
+        <item>Tulipan</item>
+        <item>Hortensia</item>
+    </string-array>
+
+</resources>

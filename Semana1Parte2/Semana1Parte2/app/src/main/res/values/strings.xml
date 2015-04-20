@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Semana1Parte2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="strTitulo">Aplicación Para Cambio de Moneda</string>
+    <string name="strCalcular">Calcular</string>
+</resources>

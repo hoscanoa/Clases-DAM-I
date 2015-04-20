@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Semana3Parte2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="strHistoria">Historia</string>
+</resources>

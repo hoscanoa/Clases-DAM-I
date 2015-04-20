@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Semana2Parte1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="strNombre">Ingrese Nombre</string>
+    <string name="strDestino">Ingrese Destino</string>
+    <string name="strClase">Seleccione Clase</string>
+    <string name="strCantidad">Ingrese Cantidad de Boletos</string>
+    <string name="strCheck">IGV 18%</string>
+    <string name="strButton">CALCULAR</string>
+    <string name="strRadio1">Primera Clase</string>
+    <string name="strRadio2">Económica</string>
+
+    <string-array name="arrDestino">
+        <item>Acapulco</item>
+        <item>Cuzco</item>
+        <item>Rio de Janeiro</item>
+    </string-array>
+
+</resources>

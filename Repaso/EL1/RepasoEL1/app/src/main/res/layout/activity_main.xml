@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/strCategoria"
+            android:id="@+id/textView" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:id="@+id/spnCategoria"
+            android:layout_weight="0.01" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/strProducto"
+            android:id="@+id/textView2" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:id="@+id/spnProducto"
+            android:layout_weight="0.01" />
+
+        <ImageView
+            android:layout_width="314dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/imgProducto"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.86" />
+
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rbProducto"
+            android:numStars="5"
+            android:stepSize=".5" />
+
+        <Button
+            android:layout_width="154dp"
+            android:layout_height="wrap_content"
+            android:text="@string/strVer"
+            android:id="@+id/btnVerMas"
+            android:layout_gravity="center_horizontal" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RepasoEL2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="strTvs">Televisores</string>
+    <string name="strAds">Audio</string>
+    <string name="title_activity_paso">PasoActivity</string>
+</resources>

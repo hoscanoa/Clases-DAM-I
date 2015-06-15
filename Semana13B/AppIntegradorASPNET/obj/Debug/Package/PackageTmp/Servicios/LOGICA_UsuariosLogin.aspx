@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LOGICA_UsuariosLogin.aspx.cs" Inherits="AppIntegradorASPNET.Servicios.LOGICA_UsuariosLogin1" %>

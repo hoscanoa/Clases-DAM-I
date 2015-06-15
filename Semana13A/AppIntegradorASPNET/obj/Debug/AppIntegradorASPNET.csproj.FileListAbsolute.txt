@@ -1,0 +1,12 @@
+D:\Desarrollo Android 4.2\PPTs Android 4.0 SISE Enero 2014\Semanas Clase\Semana06\Servicio Web Json\ServicioIntegradorASPNET\AppIntegradorASPNET\bin\AppIntegradorASPNET.dll
+D:\Desarrollo Android 4.2\PPTs Android 4.0 SISE Enero 2014\Semanas Clase\Semana06\Servicio Web Json\ServicioIntegradorASPNET\AppIntegradorASPNET\bin\AppIntegradorASPNET.pdb
+D:\Desarrollo Android 4.2\PPTs Android 4.0 SISE Enero 2014\Semanas Clase\Semana06\Servicio Web Json\ServicioIntegradorASPNET\AppIntegradorASPNET\obj\Debug\AppIntegradorASPNET.dll
+D:\Desarrollo Android 4.2\PPTs Android 4.0 SISE Enero 2014\Semanas Clase\Semana06\Servicio Web Json\ServicioIntegradorASPNET\AppIntegradorASPNET\obj\Debug\AppIntegradorASPNET.pdb
+G:\Desarrollo Android 4.2\PPTs Android 4.0 SISE Enero 2014\Semanas Clase\Integrador Json Nube\AppIntegradorASPNET\bin\AppIntegradorASPNET.dll
+G:\Desarrollo Android 4.2\PPTs Android 4.0 SISE Enero 2014\Semanas Clase\Integrador Json Nube\AppIntegradorASPNET\bin\AppIntegradorASPNET.pdb
+G:\Desarrollo Android 4.2\PPTs Android 4.0 SISE Enero 2014\Semanas Clase\Integrador Json Nube\AppIntegradorASPNET\obj\Debug\AppIntegradorASPNET.dll
+G:\Desarrollo Android 4.2\PPTs Android 4.0 SISE Enero 2014\Semanas Clase\Integrador Json Nube\AppIntegradorASPNET\obj\Debug\AppIntegradorASPNET.pdb
+J:\Curso Android Cibertec\Semana09\AppServidor\Integrador Json Nube\AppIntegradorASPNET\bin\AppIntegradorASPNET.dll
+J:\Curso Android Cibertec\Semana09\AppServidor\Integrador Json Nube\AppIntegradorASPNET\bin\AppIntegradorASPNET.pdb
+J:\Curso Android Cibertec\Semana09\AppServidor\Integrador Json Nube\AppIntegradorASPNET\obj\Debug\AppIntegradorASPNET.dll
+J:\Curso Android Cibertec\Semana09\AppServidor\Integrador Json Nube\AppIntegradorASPNET\obj\Debug\AppIntegradorASPNET.pdb
